@@ -45,9 +45,3 @@ $ python test.py --config_file configs/MARS/hmlt.yml MODEL.DEVICE_ID "('0')"
 
 This repository is built upon the repository [TranReID](https://github.com/damo-cv/TransReID).
 
-## Citation
-If you find this project useful for your research, please kindly cite:
-
-
-## License
-This repository is released under the GPL-2.0 License as found in the [LICENSE](LICENSE) file.
