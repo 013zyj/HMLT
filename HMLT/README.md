@@ -37,7 +37,7 @@ The results of MARS and iLIDS-VID are trained using one 24G NVIDIA GPU and provi
 
 
  ```
-$ python test.py --config_file configs/MARS/pit.yml MODEL.DEVICE_ID "('0')" 
+$ python test.py --config_file configs/MARS/hmlt.yml MODEL.DEVICE_ID "('0')" 
 ```
 
 
